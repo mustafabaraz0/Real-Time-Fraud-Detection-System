@@ -1,0 +1,15 @@
+# Python Geçici Dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Veritabanı ve Yapay Zeka Modelleri (Kullanıcı kendi üretecek)
+*.db
+*.sqlite3
+*.pkl
+
+# C# / WPF Derleme Çöpleri (Sadece kaynak kodlar kalmalı)
+FraudDashboard/bin/
+FraudDashboard/obj/
+.vs/
+*.user
