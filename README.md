@@ -1,7 +1,7 @@
 # 🛡️ End-to-End Real-Time Fraud Detection Engine & SOC Dashboard
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
-![C#](https://img.shields.io/badge/C%23-.NET_8.0-purple.svg)
+![Python](https://img.shields.io/badge/Python-3.14-blue.svg)
+![C#](https://img.shields.io/badge/C%23-.NET_10.0-purple.svg)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Scikit_Learn-orange.svg)
 ![Database](https://img.shields.io/badge/Database-SQLite-lightgrey.svg)
 ![Architecture](https://img.shields.io/badge/Architecture-Microservice-success.svg)
